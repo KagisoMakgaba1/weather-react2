@@ -1,0 +1,25 @@
+.search-bar {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 60px;
+  display: flex;
+  margin: 15px auto;
+  max-width: 700px;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.search-bar input {
+  background: transparent;
+  border: 0;
+  outline: none;
+  padding: 15px 10px;
+  flex: 1;
+}
+
+.search-bar button {
+  color: #757575;
+  background-color: transparent;
+  font-size: 18px;
+  border: transparent;
+}

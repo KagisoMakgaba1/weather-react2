@@ -1,0 +1,46 @@
+sup {
+  font-size: smaller;
+  vertical-align: super;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 30px;
+}
+
+.current-city {
+  font-weight: 600;
+}
+
+.header-left {
+  align-items: center;
+  border-right: 2px solid #757575;
+  justify-content: center;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.header-far-right {
+  display: flex;
+  position: absolute;
+  right: 150px;
+}
+
+.temp {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.weather-icon-large {
+  font-size: 45px;
+}
+
+.more-info {
+  font-size: 25px;
+}
