@@ -4,7 +4,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <em>
-      <a href="https://github.com/KagisoMakgaba1/my-weather-app">
+      <a href="https://github.com/KagisoMakgaba1/weather-react2">
         Open-source code
       </a>{" "}
       by Kagiso Makgaba, and hosted on{" "}
